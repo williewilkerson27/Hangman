@@ -1,1 +1,1 @@
-# Hangman
+# Hangman made with React
